@@ -32,6 +32,10 @@ status-website:
       href: https://reinerouge.fr
     - title: Support
       href: https://support.reinerouge.fr
+robotsText: "User-agent: * \n Disallow: /"
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
+
+i18n:
+  footer: Powered by [Upptime](https://upptime.js.org)
