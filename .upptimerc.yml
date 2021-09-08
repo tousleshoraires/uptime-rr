@@ -11,6 +11,14 @@ sites:
     url: https://demo.reinerouge.fr
   - name: Compte TLH
     url: https://tlh.reinerouge.fr
+  - name: Tracking - Europe 1
+    url: https://tkg1.reinerouge.fr
+  - name: Tracking - Europe 2
+    url: https://tkg2.reinerouge.fr
+  - name: Tracking - Europe 3
+    url: https://tkg3.reinerouge.fr
+  - name: Tracking - Europe 4
+    url: https://tkg4.reinerouge.fr
   - name: Tracking - Europe 6
     url: https://tkg6.reinerouge.fr
   - name: Tracking - Europe 8
