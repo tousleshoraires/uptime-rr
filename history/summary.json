@@ -94,19 +94,19 @@
     "url": "https://tkg2.reinerouge.fr",
     "icon": "https://favicons.githubusercontent.com/tkg2.reinerouge.fr",
     "slug": "tracking-europe-2",
-    "status": "down",
-    "uptime": "15.16%",
-    "uptimeDay": "15.16%",
-    "uptimeWeek": "15.16%",
-    "uptimeMonth": "15.16%",
-    "uptimeYear": "15.16%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "0.51%",
+    "uptimeDay": "0.51%",
+    "uptimeWeek": "0.51%",
+    "uptimeMonth": "0.51%",
+    "uptimeYear": "0.51%",
+    "time": 464,
+    "timeDay": 464,
+    "timeWeek": 464,
+    "timeMonth": 464,
+    "timeYear": 464,
     "dailyMinutesDown": {
-      "2021-09-08": 0
+      "2021-09-08": 19
     }
   },
   {
