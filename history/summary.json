@@ -4,10 +4,10 @@
     "url": "https://reinerouge.fr",
     "icon": "https://favicons.githubusercontent.com/reinerouge.fr",
     "slug": "reine-rouge-fr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 977,
@@ -15,7 +15,9 @@
     "timeWeek": 995,
     "timeMonth": 977,
     "timeYear": 977,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-09-24": 1
+    }
   },
   {
     "name": "Documentation",
