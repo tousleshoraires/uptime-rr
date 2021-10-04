@@ -5,11 +5,11 @@
     "icon": "https://favicons.githubusercontent.com/reinerouge.fr",
     "slug": "reine-rouge-fr",
     "status": "up",
-    "uptime": "99.84%",
+    "uptime": "99.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.84%",
-    "uptimeYear": "99.84%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.85%",
     "time": 1020,
     "timeDay": 1193,
     "timeWeek": 1102,
@@ -24,9 +24,9 @@
     "url": "https://support.reinerouge.fr",
     "icon": "https://favicons.githubusercontent.com/support.reinerouge.fr",
     "slug": "documentation",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -35,7 +35,9 @@
     "timeWeek": 1099,
     "timeMonth": 1075,
     "timeYear": 1075,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-10-04": 0
+    }
   },
   {
     "name": "Compte Démo",
