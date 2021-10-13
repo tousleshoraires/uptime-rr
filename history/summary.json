@@ -4,18 +4,19 @@
     "url": "https://reinerouge.fr",
     "icon": "https://favicons.githubusercontent.com/reinerouge.fr",
     "slug": "reine-rouge-fr",
-    "status": "up",
-    "uptime": "99.89%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.87%",
-    "uptimeYear": "99.89%",
+    "status": "down",
+    "uptime": "99.88%",
+    "uptimeDay": "99.66%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.88%",
     "time": 1012,
     "timeDay": 793,
     "timeWeek": 919,
     "timeMonth": 1038,
     "timeYear": 1012,
     "dailyMinutesDown": {
+      "2021-10-13": 5,
       "2021-09-24": 56
     }
   },
@@ -24,18 +25,19 @@
     "url": "https://support.reinerouge.fr",
     "icon": "https://favicons.githubusercontent.com/support.reinerouge.fr",
     "slug": "documentation",
-    "status": "up",
-    "uptime": "99.95%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.95%",
+    "status": "down",
+    "uptime": "99.94%",
+    "uptimeDay": "99.70%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.94%",
     "time": 1073,
     "timeDay": 1046,
     "timeWeek": 1082,
     "timeMonth": 1119,
     "timeYear": 1073,
     "dailyMinutesDown": {
+      "2021-10-13": 4,
       "2021-10-04": 26
     }
   },
@@ -44,65 +46,71 @@
     "url": "https://demo.reinerouge.fr",
     "icon": "https://favicons.githubusercontent.com/demo.reinerouge.fr",
     "slug": "compte-demo",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.74%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 1022,
     "timeDay": 746,
     "timeWeek": 977,
     "timeMonth": 1053,
     "timeYear": 1022,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-10-13": 4
+    }
   },
   {
     "name": "Compte TLH",
     "url": "https://tlh.reinerouge.fr",
     "icon": "https://favicons.githubusercontent.com/tlh.reinerouge.fr",
     "slug": "compte-tlh",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.77%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 861,
     "timeDay": 745,
     "timeWeek": 801,
     "timeMonth": 887,
     "timeYear": 861,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-10-13": 3
+    }
   },
   {
     "name": "Tracking - Europe 1",
     "url": "https://tkg1.reinerouge.fr",
     "icon": "https://favicons.githubusercontent.com/tkg1.reinerouge.fr",
     "slug": "tracking-europe-1",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.81%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 579,
     "timeDay": 535,
     "timeWeek": 552,
     "timeMonth": 563,
     "timeYear": 579,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-10-13": 3
+    }
   },
   {
     "name": "Tracking - Europe 2",
     "url": "https://tkg2.reinerouge.fr",
     "icon": "https://favicons.githubusercontent.com/tkg2.reinerouge.fr",
     "slug": "tracking-europe-2",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.96%",
     "time": 556,
     "timeDay": 453,
@@ -110,6 +118,7 @@
     "timeMonth": 560,
     "timeYear": 556,
     "dailyMinutesDown": {
+      "2021-10-13": 2,
       "2021-09-08": 19
     }
   },
@@ -118,10 +127,10 @@
     "url": "https://tkg3.reinerouge.fr",
     "icon": "https://favicons.githubusercontent.com/tkg3.reinerouge.fr",
     "slug": "tracking-europe-3",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 552,
@@ -129,17 +138,19 @@
     "timeWeek": 513,
     "timeMonth": 563,
     "timeYear": 552,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-10-13": 2
+    }
   },
   {
     "name": "Tracking - Europe 4",
     "url": "https://tkg4.reinerouge.fr",
     "icon": "https://favicons.githubusercontent.com/tkg4.reinerouge.fr",
     "slug": "tracking-europe-4",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 563,
@@ -147,17 +158,19 @@
     "timeWeek": 607,
     "timeMonth": 581,
     "timeYear": 563,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-10-13": 1
+    }
   },
   {
     "name": "Tracking - Europe 6",
     "url": "https://tkg6.reinerouge.fr",
     "icon": "https://favicons.githubusercontent.com/tkg6.reinerouge.fr",
     "slug": "tracking-europe-6",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 535,
@@ -165,16 +178,18 @@
     "timeWeek": 515,
     "timeMonth": 539,
     "timeYear": 535,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-10-13": 1
+    }
   },
   {
     "name": "Tracking - Europe 8",
     "url": "https://tkg8.reinerouge.fr",
     "icon": "https://favicons.githubusercontent.com/tkg8.reinerouge.fr",
     "slug": "tracking-europe-8",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -183,6 +198,8 @@
     "timeWeek": 484,
     "timeMonth": 541,
     "timeYear": 527,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-10-13": 0
+    }
   }
 ]
