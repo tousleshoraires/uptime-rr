@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.83%",
-    "time": 994,
-    "timeDay": 855,
-    "timeWeek": 945,
-    "timeMonth": 1002,
-    "timeYear": 994,
+    "time": 993,
+    "timeDay": 898,
+    "timeWeek": 944,
+    "timeMonth": 996,
+    "timeYear": 993,
     "dailyMinutesDown": {
       "2021-10-13": 58,
       "2021-09-24": 56
@@ -31,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.73%",
     "uptimeYear": "99.82%",
-    "time": 1075,
-    "timeDay": 951,
-    "timeWeek": 1068,
-    "timeMonth": 1095,
-    "timeYear": 1075,
+    "time": 1079,
+    "timeDay": 1256,
+    "timeWeek": 1087,
+    "timeMonth": 1097,
+    "timeYear": 1079,
     "dailyMinutesDown": {
       "2021-10-15": 37,
       "2021-10-13": 58,
@@ -48,16 +48,16 @@
     "icon": "https://favicons.githubusercontent.com/demo.reinerouge.fr",
     "slug": "compte-demo",
     "status": "up",
-    "uptime": "99.91%",
+    "uptime": "99.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.87%",
-    "uptimeYear": "99.91%",
-    "time": 1008,
-    "timeDay": 862,
-    "timeWeek": 960,
-    "timeMonth": 1018,
-    "timeYear": 1008,
+    "uptimeYear": "99.92%",
+    "time": 1009,
+    "timeDay": 1036,
+    "timeWeek": 984,
+    "timeMonth": 1011,
+    "timeYear": 1009,
     "dailyMinutesDown": {
       "2021-10-13": 57
     }
@@ -68,16 +68,16 @@
     "icon": "https://favicons.githubusercontent.com/tlh.reinerouge.fr",
     "slug": "compte-tlh",
     "status": "up",
-    "uptime": "99.91%",
+    "uptime": "99.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.87%",
-    "uptimeYear": "99.91%",
-    "time": 847,
-    "timeDay": 768,
-    "timeWeek": 787,
-    "timeMonth": 856,
-    "timeYear": 847,
+    "uptimeYear": "99.92%",
+    "time": 846,
+    "timeDay": 832,
+    "timeWeek": 809,
+    "timeMonth": 848,
+    "timeYear": 846,
     "dailyMinutesDown": {
       "2021-10-13": 57
     }
@@ -93,11 +93,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.92%",
-    "time": 568,
-    "timeDay": 486,
-    "timeWeek": 506,
-    "timeMonth": 557,
-    "timeYear": 568,
+    "time": 566,
+    "timeDay": 453,
+    "timeWeek": 502,
+    "timeMonth": 553,
+    "timeYear": 566,
     "dailyMinutesDown": {
       "2021-10-13": 56
     }
@@ -114,9 +114,9 @@
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.89%",
     "time": 550,
-    "timeDay": 577,
-    "timeWeek": 540,
-    "timeMonth": 544,
+    "timeDay": 546,
+    "timeWeek": 539,
+    "timeMonth": 542,
     "timeYear": 550,
     "dailyMinutesDown": {
       "2021-10-13": 56,
@@ -134,11 +134,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.92%",
-    "time": 545,
-    "timeDay": 477,
+    "time": 543,
+    "timeDay": 466,
     "timeWeek": 538,
-    "timeMonth": 546,
-    "timeYear": 545,
+    "timeMonth": 538,
+    "timeYear": 543,
     "dailyMinutesDown": {
       "2021-10-13": 55
     }
@@ -154,11 +154,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.92%",
-    "time": 550,
-    "timeDay": 463,
-    "timeWeek": 522,
-    "timeMonth": 560,
-    "timeYear": 550,
+    "time": 549,
+    "timeDay": 522,
+    "timeWeek": 531,
+    "timeMonth": 558,
+    "timeYear": 549,
     "dailyMinutesDown": {
       "2021-10-13": 55
     }
@@ -174,11 +174,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.92%",
-    "time": 527,
-    "timeDay": 475,
-    "timeWeek": 502,
-    "timeMonth": 527,
-    "timeYear": 527,
+    "time": 526,
+    "timeDay": 464,
+    "timeWeek": 503,
+    "timeMonth": 518,
+    "timeYear": 526,
     "dailyMinutesDown": {
       "2021-10-13": 54
     }
@@ -194,11 +194,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.92%",
-    "time": 526,
+    "time": 525,
     "timeDay": 462,
     "timeWeek": 516,
-    "timeMonth": 539,
-    "timeYear": 526,
+    "timeMonth": 535,
+    "timeYear": 525,
     "dailyMinutesDown": {
       "2021-10-13": 54
     }
