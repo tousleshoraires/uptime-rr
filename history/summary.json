@@ -58,19 +58,19 @@
     "url": "https://tlh.reinerouge.fr",
     "icon": "https://icons.duckduckgo.com/ip3/tlh.reinerouge.fr.ico",
     "slug": "compte-tlh",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.47%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 963,
-    "timeDay": 977,
-    "timeWeek": 1104,
-    "timeMonth": 1126,
-    "timeYear": 1077,
+    "time": 962,
+    "timeDay": 956,
+    "timeWeek": 1083,
+    "timeMonth": 1120,
+    "timeYear": 1074,
     "dailyMinutesDown": {
-      "2023-05-02": 0
+      "2023-05-02": 8
     }
   },
   {
@@ -90,7 +90,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-02": 711,
+      "2023-05-02": 719,
       "2023-05-01": 1440,
       "2023-04-30": 1440,
       "2023-04-29": 1440,
@@ -163,7 +163,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-02": 711,
+      "2023-05-02": 719,
       "2023-05-01": 1440,
       "2023-04-30": 1440,
       "2023-04-29": 1440,
@@ -290,7 +290,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-02": 711,
+      "2023-05-02": 719,
       "2023-05-01": 1440,
       "2023-04-30": 1440,
       "2023-04-29": 1440,
