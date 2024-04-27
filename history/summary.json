@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1036,
-    "timeDay": 863,
-    "timeWeek": 958,
-    "timeMonth": 1002,
-    "timeYear": 1049,
+    "timeDay": 852,
+    "timeWeek": 978,
+    "timeMonth": 1009,
+    "timeYear": 1048,
     "dailyMinutesDown": {}
   },
   {
@@ -28,10 +28,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
-    "time": 1226,
-    "timeDay": 1095,
-    "timeWeek": 1178,
-    "timeMonth": 1178,
+    "time": 1227,
+    "timeDay": 1084,
+    "timeWeek": 1187,
+    "timeMonth": 1177,
     "timeYear": 1251,
     "dailyMinutesDown": {
       "2023-07-23": 21,
@@ -52,9 +52,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.49%",
     "time": 1173,
-    "timeDay": 971,
-    "timeWeek": 1144,
-    "timeMonth": 1021,
+    "timeDay": 1135,
+    "timeWeek": 1182,
+    "timeMonth": 1028,
     "timeYear": 1203,
     "dailyMinutesDown": {
       "2024-03-08": 708,
@@ -79,18 +79,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/tlh.reinerouge.fr.ico",
     "slug": "compte-tlh",
     "status": "down",
-    "uptime": "93.87%",
+    "uptime": "93.83%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "83.87%",
-    "time": 1120,
+    "uptimeYear": "83.76%",
+    "time": 1121,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1173,
     "dailyMinutesDown": {
-      "2024-04-26": 874,
+      "2024-04-27": 47,
+      "2024-04-26": 1440,
       "2024-04-25": 1440,
       "2024-04-24": 1440,
       "2024-04-23": 1440,
@@ -169,12 +170,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "82.75%",
-    "time": 611,
-    "timeDay": 437,
-    "timeWeek": 517,
-    "timeMonth": 461,
-    "timeYear": 620,
+    "uptimeYear": "82.87%",
+    "time": 610,
+    "timeDay": 434,
+    "timeWeek": 526,
+    "timeMonth": 464,
+    "timeYear": 619,
     "dailyMinutesDown": {
       "2023-10-09": 50,
       "2023-07-21": 50,
@@ -239,8 +240,7 @@
       "2023-05-02": 1440,
       "2023-05-01": 1440,
       "2023-04-30": 1440,
-      "2023-04-29": 1440,
-      "2023-04-28": 1440
+      "2023-04-29": 1440
     }
   },
   {
@@ -250,17 +250,16 @@
     "slug": "tracking-europe-2",
     "status": "up",
     "uptime": "88.54%",
-    "uptimeDay": "99.52%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "82.75%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "82.87%",
     "time": 594,
-    "timeDay": 395,
-    "timeWeek": 710,
-    "timeMonth": 527,
+    "timeDay": 443,
+    "timeWeek": 709,
+    "timeMonth": 530,
     "timeYear": 602,
     "dailyMinutesDown": {
-      "2024-04-26": 7,
       "2023-10-09": 49,
       "2023-07-21": 50,
       "2023-07-20": 30,
@@ -324,8 +323,7 @@
       "2023-05-02": 1440,
       "2023-05-01": 1440,
       "2023-04-30": 1440,
-      "2023-04-29": 1440,
-      "2023-04-28": 1440
+      "2023-04-29": 1440
     }
   },
   {
@@ -341,8 +339,8 @@
     "uptimeYear": "100.00%",
     "time": 622,
     "timeDay": 498,
-    "timeWeek": 612,
-    "timeMonth": 619,
+    "timeWeek": 623,
+    "timeMonth": 622,
     "timeYear": 634,
     "dailyMinutesDown": {
       "2023-07-10": 16
@@ -360,9 +358,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 613,
-    "timeDay": 545,
-    "timeWeek": 634,
-    "timeMonth": 570,
+    "timeDay": 539,
+    "timeWeek": 624,
+    "timeMonth": 573,
     "timeYear": 622,
     "dailyMinutesDown": {
       "2023-11-20": 19,
@@ -381,10 +379,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 612,
-    "timeDay": 556,
-    "timeWeek": 615,
+    "timeDay": 545,
+    "timeWeek": 627,
     "timeMonth": 550,
-    "timeYear": 626,
+    "timeYear": 625,
     "dailyMinutesDown": {
       "2023-11-20": 18
     }
@@ -395,16 +393,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/tkg8.reinerouge.fr.ico",
     "slug": "tracking-europe-8",
     "status": "up",
-    "uptime": "88.54%",
+    "uptime": "88.55%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "82.76%",
-    "time": 536,
-    "timeDay": 438,
-    "timeWeek": 497,
-    "timeMonth": 463,
-    "timeYear": 536,
+    "uptimeYear": "82.88%",
+    "time": 535,
+    "timeDay": 434,
+    "timeWeek": 496,
+    "timeMonth": 466,
+    "timeYear": 535,
     "dailyMinutesDown": {
       "2023-10-09": 49,
       "2023-07-20": 29,
@@ -468,8 +466,7 @@
       "2023-05-02": 1440,
       "2023-05-01": 1440,
       "2023-04-30": 1440,
-      "2023-04-29": 1440,
-      "2023-04-28": 1440
+      "2023-04-29": 1440
     }
   }
 ]
