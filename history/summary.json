@@ -31,7 +31,7 @@
     "time": 1255,
     "timeDay": 1068,
     "timeWeek": 1145,
-    "timeMonth": 1203,
+    "timeMonth": 1209,
     "timeYear": 1253,
     "dailyMinutesDown": {
       "2024-06-25": 22
@@ -161,10 +161,10 @@
     "url": "https://tkg1.reinerouge.fr",
     "icon": "https://icons.duckduckgo.com/ip3/tkg1.reinerouge.fr.ico",
     "slug": "tracking-europe-1",
-    "status": "up",
+    "status": "down",
     "uptime": "89.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
     "time": 593,
@@ -173,6 +173,7 @@
     "timeMonth": 557,
     "timeYear": 525,
     "dailyMinutesDown": {
+      "2024-09-15": 1,
       "2024-06-12": 365,
       "2023-10-09": 50
     }
@@ -183,7 +184,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/tkg2.reinerouge.fr.ico",
     "slug": "tracking-europe-2",
     "status": "up",
-    "uptime": "89.98%",
+    "uptime": "89.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -271,7 +272,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/tkg8.reinerouge.fr.ico",
     "slug": "tracking-europe-8",
     "status": "up",
-    "uptime": "89.99%",
+    "uptime": "90.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
