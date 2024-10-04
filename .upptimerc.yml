@@ -10,7 +10,7 @@ sites:
   - name: Compte Démo
     url: https://demo.reinerouge.fr
   - name: Compte TLH
-    url: https://tlh.reinerouge.fr
+    url: https://tlh.kooltracker.com
   - name: Tracking - Europe 1
     url: https://tkg1.reinerouge.fr
   - name: Tracking - Europe 2
