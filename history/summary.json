@@ -4,9 +4,9 @@
     "url": "https://reinerouge.fr",
     "icon": "https://icons.duckduckgo.com/ip3/reinerouge.fr.ico",
     "slug": "reine-rouge-fr",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.81%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
@@ -16,6 +16,7 @@
     "timeMonth": 838,
     "timeYear": 912,
     "dailyMinutesDown": {
+      "2024-12-23": 0,
       "2024-12-17": 19,
       "2024-10-23": 16
     }
@@ -198,7 +199,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/tkg2.reinerouge.fr.ico",
     "slug": "tracking-europe-2",
     "status": "up",
-    "uptime": "90.79%",
+    "uptime": "90.80%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
