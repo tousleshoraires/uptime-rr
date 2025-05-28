@@ -149,19 +149,19 @@
     "url": "https://tkg6.reinerouge.fr",
     "icon": "https://icons.duckduckgo.com/ip3/tkg6.reinerouge.fr.ico",
     "slug": "tracking-europe-6",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.55%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 555,
-    "timeDay": 322,
-    "timeWeek": 405,
-    "timeMonth": 459,
+    "time": 552,
+    "timeDay": 326,
+    "timeWeek": 397,
+    "timeMonth": 455,
     "timeYear": 510,
     "dailyMinutesDown": {
-      "2025-05-28": 0,
+      "2025-05-28": 7,
       "2025-03-20": 15
     }
   }
