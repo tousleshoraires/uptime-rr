@@ -78,7 +78,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/tlh.kooltracker.com.ico",
     "slug": "compte-tlh",
     "status": "up",
-    "uptime": "94.86%",
+    "uptime": "94.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -149,9 +149,9 @@
     "url": "https://tkg6.reinerouge.fr",
     "icon": "https://icons.duckduckgo.com/ip3/tkg6.reinerouge.fr.ico",
     "slug": "tracking-europe-6",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -161,6 +161,7 @@
     "timeMonth": 459,
     "timeYear": 510,
     "dailyMinutesDown": {
+      "2025-05-28": 0,
       "2025-03-20": 15
     }
   }
