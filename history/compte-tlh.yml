@@ -1,7 +1,7 @@
 url: https://tlh.kooltracker.com
-status: up
-code: 200
-responseTime: 924
-lastUpdated: 2026-06-06T17:55:01.726Z
+status: down
+code: 503
+responseTime: 399
+lastUpdated: 2026-06-06T23:40:16.037Z
 startTime: 2021-09-08T20:40:06.000Z
 generator: Upptime <https://github.com/upptime/upptime>
