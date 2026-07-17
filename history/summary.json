@@ -29,14 +29,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "70.73%",
+    "uptimeYear": "70.72%",
     "time": 2089,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 2581,
     "dailyMinutesDown": {
-      "2026-07-17": 1011,
+      "2026-07-17": 1072,
       "2026-07-16": 1440,
       "2026-07-15": 1440,
       "2026-07-14": 1440,
@@ -176,16 +176,16 @@
     "url": "https://tlh.kooltracker.com",
     "icon": "https://icons.duckduckgo.com/ip3/tlh.kooltracker.com.ico",
     "slug": "compte-tlh",
-    "status": "down",
-    "uptime": "99.50%",
-    "uptimeDay": "89.58%",
-    "uptimeWeek": "90.71%",
-    "uptimeMonth": "84.94%",
-    "uptimeYear": "97.55%",
+    "status": "up",
+    "uptime": "99.49%",
+    "uptimeDay": "85.40%",
+    "uptimeWeek": "90.12%",
+    "uptimeMonth": "84.80%",
+    "uptimeYear": "97.54%",
     "time": 739,
-    "timeDay": 926,
-    "timeWeek": 884,
-    "timeMonth": 912,
+    "timeDay": 985,
+    "timeWeek": 900,
+    "timeMonth": 916,
     "timeYear": 740,
     "dailyMinutesDown": {
       "2026-04-11": 27,
@@ -245,7 +245,7 @@
       "2026-07-14": 129,
       "2026-07-16": 126,
       "2026-07-15": 5,
-      "2026-07-17": 88
+      "2026-07-17": 148
     }
   },
   {
@@ -265,7 +265,7 @@
     "timeMonth": 402,
     "timeYear": 419,
     "dailyMinutesDown": {
-      "2026-07-17": 1011,
+      "2026-07-17": 1072,
       "2026-07-16": 1440,
       "2026-07-15": 1440,
       "2026-07-14": 1440,
@@ -649,7 +649,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-17": 1011,
+      "2026-07-17": 1072,
       "2026-07-16": 1440,
       "2026-07-15": 1440,
       "2026-07-14": 1440,
@@ -1033,7 +1033,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-17": 1011,
+      "2026-07-17": 1072,
       "2026-07-16": 1440,
       "2026-07-15": 1440,
       "2026-07-14": 1440,
