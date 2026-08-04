@@ -36,7 +36,7 @@
     "timeMonth": 0,
     "timeYear": 2694,
     "dailyMinutesDown": {
-      "2026-08-04": 5,
+      "2026-08-04": 18,
       "2026-08-03": 1440,
       "2026-08-02": 1440,
       "2026-08-01": 1440,
@@ -194,16 +194,16 @@
     "url": "https://tlh.kooltracker.com",
     "icon": "https://icons.duckduckgo.com/ip3/tlh.kooltracker.com.ico",
     "slug": "compte-tlh",
-    "status": "down",
+    "status": "up",
     "uptime": "99.48%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "93.33%",
-    "uptimeMonth": "91.78%",
-    "uptimeYear": "97.46%",
+    "uptimeDay": "99.11%",
+    "uptimeWeek": "93.21%",
+    "uptimeMonth": "91.75%",
+    "uptimeYear": "97.45%",
     "time": 750,
-    "timeDay": 636,
-    "timeWeek": 1014,
-    "timeMonth": 940,
+    "timeDay": 890,
+    "timeWeek": 1021,
+    "timeMonth": 942,
     "timeYear": 753,
     "dailyMinutesDown": {
       "2026-04-19": 42,
@@ -266,7 +266,7 @@
       "2026-07-30": 78,
       "2026-07-31": 568,
       "2026-08-02": 25,
-      "2026-08-04": 1
+      "2026-08-04": 13
     }
   },
   {
@@ -286,7 +286,7 @@
     "timeMonth": 399,
     "timeYear": 416,
     "dailyMinutesDown": {
-      "2026-08-04": 5,
+      "2026-08-04": 18,
       "2026-08-03": 1440,
       "2026-08-02": 1440,
       "2026-08-01": 1440,
@@ -659,7 +659,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/tkg4.reinerouge.fr.ico",
     "slug": "tracking-europe-4",
     "status": "down",
-    "uptime": "78.48%",
+    "uptime": "78.47%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -670,7 +670,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-04": 5,
+      "2026-08-04": 18,
       "2026-08-03": 1440,
       "2026-08-02": 1440,
       "2026-08-01": 1440,
@@ -1054,7 +1054,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-04": 5,
+      "2026-08-04": 18,
       "2026-08-03": 1440,
       "2026-08-02": 1440,
       "2026-08-01": 1440,
