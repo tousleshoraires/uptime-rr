@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 213,
-    "timeDay": 182,
-    "timeWeek": 167,
-    "timeMonth": 172,
+    "timeDay": 206,
+    "timeWeek": 175,
+    "timeMonth": 174,
     "timeYear": 208,
     "dailyMinutesDown": {
       "2025-11-18": 143
@@ -25,18 +25,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/support.reinerouge.fr.ico",
     "slug": "documentation",
     "status": "down",
-    "uptime": "92.78%",
+    "uptime": "92.73%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "64.61%",
-    "time": 2151,
+    "uptimeYear": "64.33%",
+    "time": 2153,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 2728,
+    "timeYear": 2734,
     "dailyMinutesDown": {
-      "2026-08-09": 75,
+      "2026-08-10": 77,
+      "2026-08-09": 1440,
       "2026-08-08": 1440,
       "2026-08-07": 1440,
       "2026-08-06": 1440,
@@ -180,10 +181,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
-    "time": 532,
-    "timeDay": 580,
-    "timeWeek": 466,
-    "timeMonth": 440,
+    "time": 530,
+    "timeDay": 540,
+    "timeWeek": 503,
+    "timeMonth": 442,
     "timeYear": 455,
     "dailyMinutesDown": {
       "2025-10-13": 40,
@@ -202,14 +203,14 @@
     "status": "up",
     "uptime": "99.47%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "95.30%",
+    "uptimeWeek": "95.55%",
     "uptimeMonth": "93.91%",
     "uptimeYear": "97.39%",
-    "time": 753,
-    "timeDay": 844,
-    "timeWeek": 865,
-    "timeMonth": 994,
-    "timeYear": 755,
+    "time": 748,
+    "timeDay": 1555,
+    "timeWeek": 943,
+    "timeMonth": 999,
+    "timeYear": 756,
     "dailyMinutesDown": {
       "2026-04-21": 56,
       "2026-04-22": 65,
@@ -280,18 +281,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/tkg3.reinerouge.fr.ico",
     "slug": "tracking-europe-3",
     "status": "down",
-    "uptime": "78.25%",
+    "uptime": "78.21%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 431,
-    "timeDay": 454,
-    "timeWeek": 431,
-    "timeMonth": 416,
-    "timeYear": 418,
+    "timeDay": 604,
+    "timeWeek": 476,
+    "timeMonth": 419,
+    "timeYear": 420,
     "dailyMinutesDown": {
-      "2026-08-09": 75,
+      "2026-08-10": 77,
+      "2026-08-09": 1440,
       "2026-08-08": 1440,
       "2026-08-07": 1440,
       "2026-08-06": 1440,
@@ -654,8 +656,7 @@
       "2025-08-14": 1440,
       "2025-08-13": 1440,
       "2025-08-12": 1440,
-      "2025-08-11": 1440,
-      "2025-08-10": 1440
+      "2025-08-11": 1440
     }
   },
   {
@@ -664,7 +665,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/tkg4.reinerouge.fr.ico",
     "slug": "tracking-europe-4",
     "status": "down",
-    "uptime": "78.25%",
+    "uptime": "78.21%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -675,7 +676,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-09": 75,
+      "2026-08-10": 77,
+      "2026-08-09": 1440,
       "2026-08-08": 1440,
       "2026-08-07": 1440,
       "2026-08-06": 1440,
@@ -1038,8 +1040,7 @@
       "2025-08-14": 1440,
       "2025-08-13": 1440,
       "2025-08-12": 1440,
-      "2025-08-11": 1440,
-      "2025-08-10": 1440
+      "2025-08-11": 1440
     }
   },
   {
@@ -1048,7 +1049,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/tkg6.reinerouge.fr.ico",
     "slug": "tracking-europe-6",
     "status": "down",
-    "uptime": "78.26%",
+    "uptime": "78.21%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1059,7 +1060,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-09": 75,
+      "2026-08-10": 77,
+      "2026-08-09": 1440,
       "2026-08-08": 1440,
       "2026-08-07": 1440,
       "2026-08-06": 1440,
@@ -1422,8 +1424,7 @@
       "2025-08-14": 1440,
       "2025-08-13": 1440,
       "2025-08-12": 1440,
-      "2025-08-11": 1440,
-      "2025-08-10": 1440
+      "2025-08-11": 1440
     }
   }
 ]
