@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 214,
-    "timeDay": 294,
-    "timeWeek": 248,
-    "timeMonth": 247,
-    "timeYear": 206,
+    "timeDay": 320,
+    "timeWeek": 274,
+    "timeMonth": 249,
+    "timeYear": 207,
     "dailyMinutesDown": {
       "2025-11-18": 143
     }
@@ -25,18 +25,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/support.reinerouge.fr.ico",
     "slug": "documentation",
     "status": "down",
-    "uptime": "89.97%",
+    "uptime": "89.92%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "49.24%",
-    "time": 2344,
+    "uptimeYear": "48.96%",
+    "time": 2348,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 3235,
+    "timeYear": 3247,
     "dailyMinutesDown": {
-      "2026-10-04": 233,
+      "2026-10-05": 218,
+      "2026-10-04": 1440,
       "2026-10-03": 1440,
       "2026-10-02": 1440,
       "2026-10-01": 1440,
@@ -237,9 +238,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
     "time": 510,
-    "timeDay": 535,
-    "timeWeek": 560,
-    "timeMonth": 535,
+    "timeDay": 556,
+    "timeWeek": 525,
+    "timeMonth": 533,
     "timeYear": 462,
     "dailyMinutesDown": {
       "2025-10-13": 40,
@@ -261,11 +262,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.10%",
     "uptimeYear": "97.48%",
-    "time": 768,
-    "timeDay": 1455,
-    "timeWeek": 1467,
-    "timeMonth": 1168,
-    "timeYear": 779,
+    "time": 769,
+    "timeDay": 1376,
+    "timeWeek": 1204,
+    "timeMonth": 1170,
+    "timeYear": 780,
     "dailyMinutesDown": {
       "2026-05-18": 253,
       "2026-05-26": 96,
@@ -334,18 +335,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/tkg3.reinerouge.fr.ico",
     "slug": "tracking-europe-3",
     "status": "down",
-    "uptime": "75.88%",
+    "uptime": "75.84%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 420,
-    "timeDay": 475,
-    "timeWeek": 420,
-    "timeMonth": 406,
+    "time": 419,
+    "timeDay": 419,
+    "timeWeek": 412,
+    "timeMonth": 403,
     "timeYear": 413,
     "dailyMinutesDown": {
-      "2026-10-04": 233,
+      "2026-10-05": 218,
+      "2026-10-04": 1440,
       "2026-10-03": 1440,
       "2026-10-02": 1440,
       "2026-10-01": 1440,
@@ -708,8 +710,7 @@
       "2025-10-09": 1440,
       "2025-10-08": 1440,
       "2025-10-07": 1440,
-      "2025-10-06": 1440,
-      "2025-10-05": 1440
+      "2025-10-06": 1440
     }
   },
   {
@@ -718,18 +719,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/tkg4.reinerouge.fr.ico",
     "slug": "tracking-europe-4",
     "status": "down",
-    "uptime": "75.88%",
+    "uptime": "75.84%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 477,
+    "time": 453,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-04": 233,
+      "2026-10-05": 218,
+      "2026-10-04": 1440,
       "2026-10-03": 1440,
       "2026-10-02": 1440,
       "2026-10-01": 1440,
@@ -1092,8 +1094,7 @@
       "2025-10-09": 1440,
       "2025-10-08": 1440,
       "2025-10-07": 1440,
-      "2025-10-06": 1440,
-      "2025-10-05": 1440
+      "2025-10-06": 1440
     }
   },
   {
@@ -1102,7 +1103,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/tkg6.reinerouge.fr.ico",
     "slug": "tracking-europe-6",
     "status": "down",
-    "uptime": "75.89%",
+    "uptime": "75.85%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -1113,7 +1114,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-04": 233,
+      "2026-10-05": 218,
+      "2026-10-04": 1440,
       "2026-10-03": 1440,
       "2026-10-02": 1440,
       "2026-10-01": 1440,
@@ -1476,8 +1478,7 @@
       "2025-10-09": 1440,
       "2025-10-08": 1440,
       "2025-10-07": 1440,
-      "2025-10-06": 1440,
-      "2025-10-05": 1440
+      "2025-10-06": 1440
     }
   }
 ]
