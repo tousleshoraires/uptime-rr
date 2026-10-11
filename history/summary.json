@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 214,
-    "timeDay": 215,
-    "timeWeek": 262,
-    "timeMonth": 253,
+    "timeDay": 219,
+    "timeWeek": 251,
+    "timeMonth": 252,
     "timeYear": 207,
     "dailyMinutesDown": {
       "2025-11-18": 143
@@ -25,18 +25,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/support.reinerouge.fr.ico",
     "slug": "documentation",
     "status": "down",
-    "uptime": "89.68%",
+    "uptime": "89.63%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "47.59%",
-    "time": 2364,
+    "uptimeYear": "47.32%",
+    "time": 2368,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 3302,
+    "timeYear": 3313,
     "dailyMinutesDown": {
-      "2026-10-10": 236,
+      "2026-10-11": 211,
+      "2026-10-10": 1440,
       "2026-10-09": 1440,
       "2026-10-08": 1440,
       "2026-10-07": 1440,
@@ -242,11 +243,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
-    "time": 510,
-    "timeDay": 522,
-    "timeWeek": 532,
-    "timeMonth": 545,
-    "timeYear": 463,
+    "time": 509,
+    "timeDay": 343,
+    "timeWeek": 504,
+    "timeMonth": 542,
+    "timeYear": 462,
     "dailyMinutesDown": {
       "2025-10-13": 40,
       "2025-10-17": 23,
@@ -267,11 +268,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.75%",
     "uptimeYear": "97.48%",
-    "time": 771,
-    "timeDay": 1178,
-    "timeWeek": 1380,
-    "timeMonth": 1220,
-    "timeYear": 784,
+    "time": 772,
+    "timeDay": 1289,
+    "timeWeek": 1356,
+    "timeMonth": 1222,
+    "timeYear": 785,
     "dailyMinutesDown": {
       "2026-05-18": 253,
       "2026-05-26": 96,
@@ -340,18 +341,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/tkg3.reinerouge.fr.ico",
     "slug": "tracking-europe-3",
     "status": "down",
-    "uptime": "75.64%",
+    "uptime": "75.60%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 419,
-    "timeDay": 469,
-    "timeWeek": 407,
-    "timeMonth": 400,
+    "timeDay": 374,
+    "timeWeek": 393,
+    "timeMonth": 396,
     "timeYear": 412,
     "dailyMinutesDown": {
-      "2026-10-10": 236,
+      "2026-10-11": 211,
+      "2026-10-10": 1440,
       "2026-10-09": 1440,
       "2026-10-08": 1440,
       "2026-10-07": 1440,
@@ -714,8 +716,7 @@
       "2025-10-15": 1440,
       "2025-10-14": 1440,
       "2025-10-13": 1440,
-      "2025-10-12": 1440,
-      "2025-10-11": 1440
+      "2025-10-12": 1440
     }
   },
   {
@@ -724,7 +725,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/tkg4.reinerouge.fr.ico",
     "slug": "tracking-europe-4",
     "status": "down",
-    "uptime": "75.64%",
+    "uptime": "75.60%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -735,7 +736,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-10": 236,
+      "2026-10-11": 211,
+      "2026-10-10": 1440,
       "2026-10-09": 1440,
       "2026-10-08": 1440,
       "2026-10-07": 1440,
@@ -1098,8 +1100,7 @@
       "2025-10-15": 1440,
       "2025-10-14": 1440,
       "2025-10-13": 1440,
-      "2025-10-12": 1440,
-      "2025-10-11": 1440
+      "2025-10-12": 1440
     }
   },
   {
@@ -1108,7 +1109,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/tkg6.reinerouge.fr.ico",
     "slug": "tracking-europe-6",
     "status": "down",
-    "uptime": "75.64%",
+    "uptime": "75.60%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -1119,7 +1120,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-10": 236,
+      "2026-10-11": 211,
+      "2026-10-10": 1440,
       "2026-10-09": 1440,
       "2026-10-08": 1440,
       "2026-10-07": 1440,
@@ -1482,8 +1484,7 @@
       "2025-10-15": 1440,
       "2025-10-14": 1440,
       "2025-10-13": 1440,
-      "2025-10-12": 1440,
-      "2025-10-11": 1440
+      "2025-10-12": 1440
     }
   }
 ]
