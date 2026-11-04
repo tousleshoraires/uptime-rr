@@ -5,8 +5,8 @@ repo: uptime-rr # The name of this repository
 sites:
   - name: ReineRouge.fr
     url: https://reinerouge.fr
-  - name: Documentation
-    url: https://support.reinerouge.fr
+  #- name: Documentation
+  #  url: https://support.reinerouge.fr
   - name: Compte Démo
     url: https://demo.reinerouge.fr
   - name: Compte TLH
