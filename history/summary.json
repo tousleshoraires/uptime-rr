@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 216,
-    "timeDay": 194,
-    "timeWeek": 207,
+    "timeDay": 198,
+    "timeWeek": 200,
     "timeMonth": 239,
     "timeYear": 210,
     "dailyMinutesDown": {}
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 468,
-    "timeDay": 617,
-    "timeWeek": 539,
-    "timeMonth": 520,
+    "timeDay": 543,
+    "timeWeek": 528,
+    "timeMonth": 521,
     "timeYear": 476,
     "dailyMinutesDown": {
       "2026-01-15": 133,
@@ -50,10 +50,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.59%",
     "uptimeYear": "97.43%",
-    "time": 800,
-    "timeDay": 1406,
-    "timeWeek": 1314,
-    "timeMonth": 1207,
+    "time": 801,
+    "timeDay": 1316,
+    "timeWeek": 1322,
+    "timeMonth": 1212,
     "timeYear": 816,
     "dailyMinutesDown": {
       "2026-06-01": 130,
@@ -126,13 +126,13 @@
     "uptime": "0.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "15.75%",
+    "uptimeMonth": "25.53%",
     "uptimeYear": "0.00%",
-    "time": 545,
-    "timeDay": 570,
-    "timeWeek": 461,
-    "timeMonth": 472,
-    "timeYear": 472,
+    "time": 546,
+    "timeDay": 548,
+    "timeWeek": 493,
+    "timeMonth": 475,
+    "timeYear": 475,
     "dailyMinutesDown": {
       "2026-11-07": 732,
       "2026-11-06": 1440,
@@ -480,8 +480,7 @@
       "2025-11-29": 1440,
       "2025-11-28": 1440,
       "2025-11-27": 1440,
-      "2025-11-26": 1440,
-      "2025-11-25": 1440
+      "2025-11-26": 1440
     }
   },
   {
@@ -490,15 +489,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/tkg3.reinerouge.fr.ico",
     "slug": "tracking-europe-3",
     "status": "up",
-    "uptime": "74.87%",
+    "uptime": "74.88%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "62.42%",
-    "uptimeYear": "5.36%",
+    "uptimeMonth": "65.52%",
+    "uptimeYear": "5.62%",
     "time": 423,
-    "timeDay": 1058,
-    "timeWeek": 514,
-    "timeMonth": 460,
+    "timeDay": 790,
+    "timeWeek": 545,
+    "timeMonth": 467,
     "timeYear": 423,
     "dailyMinutesDown": {
       "2026-11-04": 1102,
@@ -844,8 +843,7 @@
       "2025-11-29": 1440,
       "2025-11-28": 1440,
       "2025-11-27": 1440,
-      "2025-11-26": 1440,
-      "2025-11-25": 1440
+      "2025-11-26": 1440
     }
   },
   {
@@ -854,16 +852,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/tkg4.reinerouge.fr.ico",
     "slug": "tracking-europe-4",
     "status": "up",
-    "uptime": "74.89%",
+    "uptime": "74.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "63.44%",
-    "uptimeYear": "5.45%",
-    "time": 449,
-    "timeDay": 434,
-    "timeWeek": 433,
-    "timeMonth": 449,
-    "timeYear": 449,
+    "uptimeMonth": "66.54%",
+    "uptimeYear": "5.70%",
+    "time": 450,
+    "timeDay": 452,
+    "timeWeek": 441,
+    "timeMonth": 450,
+    "timeYear": 450,
     "dailyMinutesDown": {
       "2026-11-04": 656,
       "2026-11-03": 1440,
@@ -1208,8 +1206,7 @@
       "2025-11-29": 1440,
       "2025-11-28": 1440,
       "2025-11-27": 1440,
-      "2025-11-26": 1440,
-      "2025-11-25": 1440
+      "2025-11-26": 1440
     }
   },
   {
@@ -1218,14 +1215,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/tkg6.reinerouge.fr.ico",
     "slug": "tracking-europe-6",
     "status": "up",
-    "uptime": "74.89%",
+    "uptime": "74.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "63.44%",
-    "uptimeYear": "5.45%",
+    "uptimeMonth": "66.54%",
+    "uptimeYear": "5.70%",
     "time": 453,
-    "timeDay": 481,
-    "timeWeek": 440,
+    "timeDay": 473,
+    "timeWeek": 460,
     "timeMonth": 453,
     "timeYear": 453,
     "dailyMinutesDown": {
@@ -1572,8 +1569,7 @@
       "2025-11-29": 1440,
       "2025-11-28": 1440,
       "2025-11-27": 1440,
-      "2025-11-26": 1440,
-      "2025-11-25": 1440
+      "2025-11-26": 1440
     }
   }
 ]
