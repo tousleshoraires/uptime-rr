@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 217,
-    "timeDay": 202,
-    "timeWeek": 207,
-    "timeMonth": 240,
+    "timeDay": 190,
+    "timeWeek": 197,
+    "timeMonth": 237,
     "timeYear": 210,
     "dailyMinutesDown": {}
   },
@@ -29,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 469,
-    "timeDay": 525,
-    "timeWeek": 540,
-    "timeMonth": 519,
-    "timeYear": 476,
+    "timeDay": 523,
+    "timeWeek": 528,
+    "timeMonth": 518,
+    "timeYear": 477,
     "dailyMinutesDown": {
       "2026-01-15": 133,
       "2026-03-26": 106,
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.59%",
     "uptimeYear": "97.43%",
-    "time": 801,
-    "timeDay": 1130,
-    "timeWeek": 1343,
-    "timeMonth": 1209,
-    "timeYear": 818,
+    "time": 802,
+    "timeDay": 1263,
+    "timeWeek": 1299,
+    "timeMonth": 1205,
+    "timeYear": 819,
     "dailyMinutesDown": {
       "2026-06-01": 130,
       "2026-06-04": 622,
@@ -126,13 +126,13 @@
     "uptime": "0.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "34.77%",
+    "uptimeMonth": "43.07%",
     "uptimeYear": "0.00%",
     "time": 545,
-    "timeDay": 405,
-    "timeWeek": 496,
-    "timeMonth": 472,
-    "timeYear": 472,
+    "timeDay": 554,
+    "timeWeek": 520,
+    "timeMonth": 476,
+    "timeYear": 476,
     "dailyMinutesDown": {
       "2026-11-07": 732,
       "2026-11-06": 1440,
@@ -478,8 +478,7 @@
       "2025-12-01": 1440,
       "2025-11-30": 1440,
       "2025-11-29": 1440,
-      "2025-11-28": 1440,
-      "2025-11-27": 1440
+      "2025-11-28": 1440
     }
   },
   {
@@ -488,16 +487,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/tkg3.reinerouge.fr.ico",
     "slug": "tracking-europe-3",
     "status": "up",
-    "uptime": "74.89%",
+    "uptime": "74.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "68.78%",
-    "uptimeYear": "5.89%",
-    "time": 423,
-    "timeDay": 409,
-    "timeWeek": 543,
+    "uptimeMonth": "72.05%",
+    "uptimeYear": "6.16%",
+    "time": 424,
+    "timeDay": 577,
+    "timeWeek": 565,
     "timeMonth": 466,
-    "timeYear": 423,
+    "timeYear": 424,
     "dailyMinutesDown": {
       "2026-11-04": 1102,
       "2026-11-03": 1440,
@@ -840,8 +839,7 @@
       "2025-12-01": 1440,
       "2025-11-30": 1440,
       "2025-11-29": 1440,
-      "2025-11-28": 1440,
-      "2025-11-27": 1440
+      "2025-11-28": 1440
     }
   },
   {
@@ -850,16 +848,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/tkg4.reinerouge.fr.ico",
     "slug": "tracking-europe-4",
     "status": "up",
-    "uptime": "74.91%",
+    "uptime": "74.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "69.80%",
-    "uptimeYear": "5.98%",
-    "time": 447,
-    "timeDay": 382,
-    "timeWeek": 439,
-    "timeMonth": 447,
-    "timeYear": 447,
+    "uptimeMonth": "73.07%",
+    "uptimeYear": "6.25%",
+    "time": 448,
+    "timeDay": 464,
+    "timeWeek": 446,
+    "timeMonth": 448,
+    "timeYear": 448,
     "dailyMinutesDown": {
       "2026-11-04": 656,
       "2026-11-03": 1440,
@@ -1202,8 +1200,7 @@
       "2025-12-01": 1440,
       "2025-11-30": 1440,
       "2025-11-29": 1440,
-      "2025-11-28": 1440,
-      "2025-11-27": 1440
+      "2025-11-28": 1440
     }
   },
   {
@@ -1212,16 +1209,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/tkg6.reinerouge.fr.ico",
     "slug": "tracking-europe-6",
     "status": "up",
-    "uptime": "74.92%",
+    "uptime": "74.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "69.80%",
-    "uptimeYear": "5.98%",
-    "time": 450,
-    "timeDay": 352,
-    "timeWeek": 450,
-    "timeMonth": 450,
-    "timeYear": 450,
+    "uptimeMonth": "73.07%",
+    "uptimeYear": "6.25%",
+    "time": 451,
+    "timeDay": 480,
+    "timeWeek": 463,
+    "timeMonth": 451,
+    "timeYear": 451,
     "dailyMinutesDown": {
       "2026-11-04": 656,
       "2026-11-03": 1440,
@@ -1564,8 +1561,7 @@
       "2025-12-01": 1440,
       "2025-11-30": 1440,
       "2025-11-29": 1440,
-      "2025-11-28": 1440,
-      "2025-11-27": 1440
+      "2025-11-28": 1440
     }
   }
 ]
